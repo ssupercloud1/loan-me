@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loan-me/static/css/main.f4ff99a5.css",
+    "main.js": "/loan-me/static/js/main.6f1df1f8.js",
+    "static/js/787.1a5c953c.chunk.js": "/loan-me/static/js/787.1a5c953c.chunk.js",
+    "index.html": "/loan-me/index.html",
+    "main.f4ff99a5.css.map": "/loan-me/static/css/main.f4ff99a5.css.map",
+    "main.6f1df1f8.js.map": "/loan-me/static/js/main.6f1df1f8.js.map",
+    "787.1a5c953c.chunk.js.map": "/loan-me/static/js/787.1a5c953c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4ff99a5.css",
+    "static/js/main.6f1df1f8.js"
+  ]
+}
